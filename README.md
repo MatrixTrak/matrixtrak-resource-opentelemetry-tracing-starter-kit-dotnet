@@ -17,6 +17,17 @@ It is designed for quick implementation support, community sharing, and stable v
 
 A minimal tracing checklist and attribute map for debugging production incidents in .NET services.
 
+## Repository Contents
+
+- `resources/` contains shipped files copied from MatrixTrak public ship assets when available
+- `docs/post-mapping.md` maps this resource to related blog posts
+- `docs/resource-files.md` lists included files and source mapping
+- Included shipped files:
+  - resources/otel-attribute-map.md
+  - resources/otel-trace-starter-checklist.md
+  - resources/README.md
+  - resources/sampling-defaults.md
+
 ## Who This Is For
 
 - Engineers handling production incidents and reliability gaps

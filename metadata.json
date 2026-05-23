@@ -1,10 +1,18 @@
 {
-  "generatedAt": "2026-05-23T12:20:13.275Z",
+  "generatedAt": "2026-05-23T12:44:40.787Z",
   "resourceSlug": "opentelemetry-tracing-starter-kit-dotnet",
   "title": "OpenTelemetry tracing starter kit (.NET)",
   "description": "A minimal tracing checklist and attribute map for debugging production incidents in .NET services.",
   "category": ".NET",
   "pillar": "",
+  "access": "free",
+  "sourcePublicPath": "/ship/dotnet-legacy/opentelemetry-dotnet-minimum-viable-tracing-production-debugging",
+  "includedRepoFiles": [
+    "resources/otel-attribute-map.md",
+    "resources/otel-trace-starter-checklist.md",
+    "resources/README.md",
+    "resources/sampling-defaults.md"
+  ],
   "canonicalResourceUrl": "https://matrixtrak.com/resources/opentelemetry-tracing-starter-kit-dotnet",
   "primaryPostSlugs": [
     "opentelemetry-dotnet-minimum-viable-tracing-production-debugging"
