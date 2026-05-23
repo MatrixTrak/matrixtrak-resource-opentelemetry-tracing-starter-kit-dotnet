@@ -1,18 +1,38 @@
 # OpenTelemetry tracing starter kit (.NET)
 
-Public resource repository for MatrixTrak distribution.
+Production-focused companion repository for a MatrixTrak resource.
 
-## Canonical Links
-- Resource page: https://matrixtrak.com/resources/opentelemetry-tracing-starter-kit-dotnet
-- Primary blog posts: 
+## What This Repository Is
+
+This repository is the public distribution surface for the linked MatrixTrak resource.
+It is designed for quick implementation support, community sharing, and stable versioned references.
+
+## Canonical MatrixTrak Links
+
+- Resource page (canonical): https://matrixtrak.com/resources/opentelemetry-tracing-starter-kit-dotnet
+- Primary blog posts:
   - https://matrixtrak.com/blog/opentelemetry-dotnet-minimum-viable-tracing-production-debugging
 
 ## Resource Summary
+
 A minimal tracing checklist and attribute map for debugging production incidents in .NET services.
 
-## Post Mapping
-Primary (frontmatter resources):
+## Who This Is For
+
+- Engineers handling production incidents and reliability gaps
+- Teams implementing or validating practical safeguards
+- Readers coming from community channels who need canonical references
+
+## Included Mapping
+
+Primary mapping (post frontmatter resources):
 - opentelemetry-dotnet-minimum-viable-tracing-production-debugging - OpenTelemetry for .NET: minimum viable tracing for production debugging
+
+## Usage Notes
+
+- Treat MatrixTrak pages as the canonical long-form guidance.
+- Use this repo for practical implementation support and sharing.
+- For updates, always check the canonical resource page first.
 
 ## Attribution
 Use MatrixTrak canonical links above for the full context and updates.
